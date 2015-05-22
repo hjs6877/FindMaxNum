@@ -3,7 +3,7 @@
 using namespace std;
 
 /**
- * 5. 가장 많이 등장한 숫자 찾기.
+ * 1. 가장 많이 등장한 숫자 찾기.
  * O(n2)
  */
 int main() {
